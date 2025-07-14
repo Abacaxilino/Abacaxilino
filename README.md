@@ -1,4 +1,4 @@
-### Hey! Welcome to my GitHub profile! 👋
+### 👋 Hey! Welcome to my GitHub profile!
 
 My name is **Gleidson Gonzaga**, but most people know me as **Zev**.  
 It’s a long story involving many nicknames until this one stuck — and by now, it’s almost official.
@@ -34,7 +34,7 @@ Curious? Feedback is always welcome! ✌️
 
 ---
 
-> “Changes in life are inevitable; growth is optional.”  
+> “Changes in life are inevitable; growth is optional.” 
 > — *John C. Maxwell*
 
 > A big hug from your Brazilian friend right here! 🇧🇷
