@@ -34,7 +34,7 @@ Curious? Feedback is always welcome! ✌️
 
 ---
 
-> “Changes in life are inevitable; growth is optional.” 
+> “Changes in life are inevitable; growth is optional.”
 > — *John C. Maxwell*
 
 > A big hug from your Brazilian friend right here! 🇧🇷
