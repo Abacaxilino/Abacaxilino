@@ -2,7 +2,7 @@
   👋 Hey! I'm Zev
   </h3> 
 
-Dev, always in for a good idea (or a dumb one) and a certified "why not?" guy — my name is Gleidson Gonzaga, but most people know me as Zev. It’s a long story involving many nicknames until this one stuck — and by now, it’s almost official.
+**Dev**, always in for a good idea (or a dumb one) and a certified "why not?" guy — my name is **Gleidson Gonzaga**, but most people know me as **Zev**. It’s a long story involving many nicknames until this one stuck — and by now, it’s almost official.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zev-Lonewolf&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Zev-Lonewolf's GitHub Stats" />
@@ -18,4 +18,4 @@ Dev, always in for a good idea (or a dumb one) and a certified "why not?" guy �
 
 ---
 
-> A big hug from your Brazilian friend right here! 🇧🇷
+> *A big hug from your Brazilian friend right here! 🇧🇷*
