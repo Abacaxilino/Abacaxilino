@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://discordapp.com/users/856127270262931497"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:gleidsongonzagasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> 
-  <a href="https://linkedin.com/in/seuperfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <!-- Coming soon --> 
+  <a href="https://www.linkedin.com/in/gleidson-gonzaga-706460300?trk=contact-info"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <!-- Coming soon --> 
   <a href="https://t.me/ZevLonewolf"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" /></a> <!-- Coming soon -->  
 </p>
