@@ -16,31 +16,27 @@
 
 ---
 
-<table align="center">
-<tr>
-  <td align="center" valign="top" width="50%">
-    
-  ### 🛠️ Tools & IDEs
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="GitHub" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="VS Code" />
-  </p>
+### More about me:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zev-Lonewolf&theme=react&show_icons=true&hide_border=true&count_private=true&hide_title=true" height="120"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zev-Lonewolf&layout=compact&theme=react&hide_border=true&langs_count=6" height="120"/>
+</p> 
 
-  ### 👨‍💻 Languages
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="C" />
-  </p>
+<h3 align="center">👨‍💻 Languages</h3>
 
-  </td>
-  <td align="center" valign="top" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zev-Lonewolf&theme=react&show_icons=true&hide_border=true&count_private=true&hide_title=true" height="140"/>
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zev-Lonewolf&theme=react&hide_border=true&layout=compact&langs_count=6&hide_title=true" height="140"/>
-  </td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C">
+</p>
 
----
+<h3 align="center">🛠️ Tools & IDEs</h3>
 
-> *A big hug from your Brazilian friend right here! 🇧🇷*
+<p align="center">
+  <img src="https://cdn.simpleicons.org/github/6e40c9" height="30" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code">
+</p>
+
+<p align="center">
+  <em>Made with care (and coffee ☕) by a Brazilian who loves to learn — sending you a big hug from here! 🇧🇷</em>
+</p>
