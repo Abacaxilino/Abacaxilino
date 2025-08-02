@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://discordapp.com/users/856127270262931497"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="mailto:gleidsongonzagasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a> 
+  <a href="mailto:gleidsongonzagasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/gleidson-gonzaga-706460300"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://steamcommunity.com/id/Zev_lonewolf/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white" alt="Steam" /></a>
   <a href="https://t.me/ZevLonewolf"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -16,26 +16,22 @@
 
 ---
 
-### More about me:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zev-Lonewolf&theme=react&show_icons=true&hide_border=true&count_private=true&hide_title=true" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zev-Lonewolf&theme=react&show_icons=true&hide_border=true&count_private=true&hide_title=true" height="115" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zev-Lonewolf&layout=compact&theme=react&hide_border=true&langs_count=6" height="120"/>
-</p> 
-
-<h3 align="center">👨‍💻 Languages</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zev-Lonewolf&layout=compact&theme=react&hide_border=true&langs_count=6" height="140" />
 </p>
 
-<h3 align="center">🛠️ Tools & IDEs</h3>
+### 🛠️ Tools & IDEs
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/github/6e40c9" height="30" alt="GitHub">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code">
-</p>
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Replit](https://img.shields.io/badge/-Replit-FF3C41?style=flat&logo=replit&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+### 👨‍💻 Languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
 
 <p align="center">
   <em>Made with care (and coffee ☕) by a Brazilian who loves to learn — sending you a big hug from here! 🇧🇷</em>
