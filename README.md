@@ -1,8 +1,7 @@
 <h3 align="center">👋 Hey! I'm Zev</h3>
-
 <p align="center">
-  <b>Dev</b>, always in for a good idea (or a dumb one) — and proudly a “why not?” kind of guy.<br>
-  My name is <b>Gleidson Gonzaga</b>, but most people know me as <b>Zev</b>.
+  <b>Developer</b>, tech enthusiast, and RPG player — always up for a good idea (or a wild one), and proudly the kind of person who says: “why not? Let’s do it!”<br>
+  My real name is <b>Gleidson Gonzaga</b>, but everyone just calls me <b>Zev</b>.
 </p>
 
 <p align="center">
