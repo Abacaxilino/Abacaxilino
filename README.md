@@ -21,16 +21,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zev-Lonewolf&layout=compact&theme=react&hide_border=true&langs_count=6" height="140" />
 </p>
 
-### 🛠️ Tools & IDEs
-
+### 🛠️ Tools & IDEs 
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Replit](https://img.shields.io/badge/-Replit-FF3C41?style=flat&logo=replit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### 👨‍💻 Languages
+### ⚙️ Frameworks & Libraries  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
+### 👨‍💻 Languages  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" /></a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
 
 <p align="center">
   <em>Made with care (and coffee ☕) by a Brazilian who loves to learn — sending you a big hug from here! 🇧🇷</em>
