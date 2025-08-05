@@ -27,8 +27,9 @@
 ![Replit](https://img.shields.io/badge/-Replit-FF3C41?style=flat&logo=replit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### ⚙️ Frameworks & Libraries  
+### 📦 Frameworks, Libraries & Formats  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 
 ### 👨‍💻 Languages  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" /></a> 
