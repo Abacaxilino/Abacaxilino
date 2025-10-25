@@ -2,7 +2,7 @@
 <p align="center">
   <b>Developer</b>, tech lover, RPG fan, and proud bird caretaker — always curious and up for new ideas!<br>
   Huge fan of <b>Persona</b> games, and I never say no to a good challenge (or a mischievous idea 🐦).<br>
-  When I'm not coding, you'll probably find me taking care of my argaponis or exploring new tech adventures.
+  When I'm not coding, you'll probably find me taking care of my lovebirds or exploring new tech adventures.
 </p>
 
 <p align="center">
@@ -32,5 +32,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" /></a>
 
 <p align="center">
-  <em>Made with love and coffee by a Brazilian who loves tech, RPGs, and taking care of birds ☕❤️🇧🇷</em>
+  <em>Made with love and pineapple by a Brazilian who loves tech, RPGs, and taking care of birds 🍍❤️🇧🇷</em>
 </p>
