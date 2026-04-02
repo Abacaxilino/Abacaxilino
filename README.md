@@ -30,6 +30,8 @@
 ### 👨‍💻 Languages  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="C" /></a> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="html" /></a>
+
 
 <p align="center">
   <em>Made with love and pineapple by a Brazilian who loves tech, RPGs, and taking care of birds 🍍❤️🇧🇷</em>
