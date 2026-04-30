@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hey! I'm Jonh</h3>
+<h3 align="center"> Jonathas </h3>
 <p align="center">
   <b>Developer</b>, tech lover, RPG fan, and proud bird caretaker — always curious and up for new ideas!<br>
   Huge fan of <b>Persona</b> games, and I never say no to a good challenge (or a mischievous idea 🐦).<br>
